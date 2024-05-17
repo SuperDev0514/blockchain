@@ -21,6 +21,7 @@
             "hashes": [
 
 
+
                 "sha256:35824b4c3a97115964b408844d64aa14db1cc518f6562e8d7261699d1350a9e3",
                 "sha256:4ad3232f5e926d6718ec31cfc1fcadfde020920e278684144551c91769c7bc18"
             ],
@@ -36,6 +37,7 @@
         },
         "click": {
             "hashes": [
+
 
 
                 "sha256:6a7a62563bbfabfda3a38f3023a1db4a35978c0abd76f6c9605ecd6554d6d9b1",
@@ -78,6 +80,7 @@
         },
         "itsdangerous": {
             "hashes": [
+
 
 
                 "sha256:5174094b9637652bdb841a3029700391451bd092ba3db90600dea710ba28e97c",
